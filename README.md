@@ -69,9 +69,9 @@ Enter Name: Priya
 Enter Marks: 95
 ## Output:
 ----- Student Report -----
-Name: Hema | Marks: 90
-Name: Ravi | Marks: 85
-Name: Priya | Marks: 95
+Name: Hema    | Marks: 90
+Name: Ravi    | Marks: 85
+Name: Priya   | Marks: 95
 
 Average Marks: 90.0
 Highest Marks: 95
