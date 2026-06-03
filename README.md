@@ -54,28 +54,37 @@
 ## Example
 
   ## Input:
-Enter number of students: 3
+<p align="center">
+  <b>Input</b><br><br>
+  Enter number of students: 3<br><br>
 
-Student 1
-Enter Name: Hema
-Enter Marks: 90
+  Student 1<br>
+  Enter Name: Hema<br>
+  Enter Marks: 90<br><br>
 
-Student 2
-Enter Name: Ravi
-Enter Marks: 85
+  Student 2<br>
+  Enter Name: Ravi<br>
+  Enter Marks: 85<br><br>
 
-Student 3
-Enter Name: Priya
-Enter Marks: 95
-## Output:
------ Student Report -----
-Name: Hema    | Marks: 90
-Name: Ravi    | Marks: 85
-Name: Priya   | Marks: 95
+  Student 3<br>
+  Enter Name: Priya<br>
+  Enter Marks: 95
+</p>
 
-Average Marks: 90.0
-Highest Marks: 95
-Lowest Marks: 85
+ ## Output:
+<p align="center">
+  <b>Output</b><br><br>
+
+  ----- Student Report -----<br>
+  Name: Hema | Marks: 90<br>
+  Name: Ravi | Marks: 85<br>
+  Name: Priya | Marks: 95<br><br>
+
+  Average Marks: 90.0<br>
+  Highest Marks: 95<br>
+  Lowest Marks: 85
+</p>
+
 ## Future Improvements :
 
 - Add grading system (A, B, C, etc.) based on marks
