@@ -4,24 +4,24 @@
     --  STUDENT GRADE TRACKER --
  
 ## Project Description :
-   The Student Grade Tracker is a simple Java console-based application designed to manage student information and analyze their academic performance. It allows users to input multiple students' names and marks, then automatically calculates the average, highest, and lowest marks. This project demonstrates the use of arrays, loops, and basic conditional logic in Java.
+   The Student Grade Tracker is a simple Java console-based application designed to manage student information and analyze their academic performance. It allows users to input multiple students names and marks, then automatically calculates the average, highest, and lowest marks. This project demonstrates the use of arrays, loops, and basic conditional logic in Java.
 
 ## Objectives :
 
- - To store and manage student details efficiently
- - To calculate academic statistics such as average, highest, and lowest marks
- - To practice Java fundamentals like arrays, loops, and Scanner input
- - To generate a simple performance report for students
- - To improve understanding of basic data processing in Java
+ - To store and manage student details efficiently.
+ - To calculate academic statistics such as average, highest, and lowest marks.
+ - To practice Java fundamentals like arrays, loops, and Scanner input.
+ - To generate a simple performance report for students.
+ - To improve understanding of basic data processing in Java.
  
  ## Tools and Technologies Used :
-  -->Programming Language: Java
-  -->IDE: VS Code 
+      - Programming Language: Java
+      - IDE: VS Code 
   # Concepts Used:
-    -->Arrays
-    -->Loops (for loop)
-    -->Conditional Statements (if conditions)
-    -->Scanner class for input handling
+      - Arrays
+      - Loops (for loop)
+      - Conditional Statements (if conditions)
+      - Scanner class for input handling
   Platform: Console-based application
 ## Features:
 
@@ -37,20 +37,20 @@
 
  - The program starts and asks the user to enter the number of students.
  - It creates two arrays:
-    -->One for storing student names.
-    --> One for storing student marks
+       - One for storing student names.
+       - One for storing student marks
   - Using a loop, the program takes input for each student’s name and marks.
   - While taking input, it simultaneously:
-     -->Adds marks to total
-     -->Tracks highest marks
-     -->Tracks lowest marks
+       - Adds marks to total
+       - Tracks highest marks
+       - Tracks lowest marks
    - After input is completed:
-       -->Average marks are calculated using total / number of students
+       - Average marks are calculated using total / number of students
    - Finally, the program displays:
-       -->List of all students with marks
-       -->Average marks
-       -->Highest marks
-       -->Lowest marks
+       - List of all students with marks
+       - Average marks
+       - Highest marks
+       - Lowest marks
 ## Example
 
   ## Input:
