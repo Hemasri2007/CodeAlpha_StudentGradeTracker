@@ -54,8 +54,7 @@
 ## Example
 
   ## Input:
-<p align="center">
-  <b>Input</b><br><br>
+
   Enter number of students: 3<br><br>
 
   Student 1<br>
@@ -72,8 +71,6 @@
 </p>
 
  ## Output:
-<p align="center">
-  <b>Output</b><br><br>
 
   ----- Student Report -----<br>
   Name: Hema | Marks: 90<br>
